@@ -1,4 +1,4 @@
-This MATLAB code is a tool designed for students to model and analyze the kinematics and dynamics of a robotic arm. It calculates joint forces and torques, and visualizes the robot's structure. Key features include:
+This MATLAB code is a tool that I designed for students to model and analyze the kinematics and dynamics of a robotic arm. It calculates joint forces and torques, and visualizes the robot's structure. Key features include:
 
 User Inputs: Define link masses, center of gravity, and applied forces.
 
